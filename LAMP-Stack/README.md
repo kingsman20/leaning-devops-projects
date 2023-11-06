@@ -59,8 +59,25 @@ or
 <img width="870" alt="Screenshot 2023-11-05 at 6 30 36 PM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/cdaf3811-f9d0-4fee-983b-3bdbe9075118">
 
 
+## Creating a Virtual Host for your Website using Apache
 
+In this project, we set up a domain called `mylamp` 
 
+Apache on Ubuntu 22.0.4 has one server block enabled by default that is configured to serve documents from the /var/www/html directory. We'd leave the configuration as it is and add our own directory next to the default one.
+
+Create directory for the `mylamp`
+
+`sudo mkdir /var/www/mylamp`
+
+Next, we assign ownership of the directory with the `$USER` enviroment variable, which will reference with your current system user:
+
+`sudo chown -R $USER:$USER /var/www/mylamp`
+
+Then, create and open a new configuration file in Apache's `sites-available` directory using your preferred command line editor.
+
+`sudo vi /etc/nginx/site-available/mylamp.conf`
+
+![Uploading Screenshot 2023-11-06 at 3.57.16 PM.png…]()
 
 
 
