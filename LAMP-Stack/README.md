@@ -77,7 +77,8 @@ Then, create and open a new configuration file in Apache's `sites-available` dir
 
 `sudo vi /etc/nginx/site-available/mylamp.conf`
 
-![Uploading Screenshot 2023-11-06 at 3.57.16 PM.png…]()
+<img width="1099" alt="Screenshot 2023-11-06 at 3 57 16 PM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/33cfdde4-fca1-4618-bc6d-879b176d71a1">
+
 
 
 
