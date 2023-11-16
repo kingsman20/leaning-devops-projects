@@ -1,4 +1,4 @@
-<img width="1387" alt="Screenshot 2023-11-17 at 12 05 46 AM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/77b2da18-62de-4fdd-a146-afada32a0f96"># Shell Scripting Hands-On Project
+# Shell Scripting Hands-On Project
 
 ## Introduction to Shell Scripting and User Input
 
