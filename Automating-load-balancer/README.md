@@ -1,4 +1,4 @@
-<img width="1063" alt="Screenshot 2023-11-29 at 12 34 27 AM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/97e9f125-b8cf-4dc2-bdc4-a128e9ae88b8"># Automating Loadbalancer configuration with Shell Scripting
+# Automating Loadbalancer configuration with Shell Scripting
 
 Here we demonstrate how to automate setup and maintanance of your loadbalancer using a freestyle job, enhancing efficiency and reducing manual effort.
 
@@ -168,6 +168,8 @@ sudo systemctl restart nginx
 `chmod u+x nginx.sh`
 
 **Step 4**: Run the script with the command 
+
+<img width="1063" alt="Screenshot 2023-11-29 at 12 34 27 AM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/97e9f125-b8cf-4dc2-bdc4-a128e9ae88b8">
 
 `./nginx.sh PUBLIC_IP_ADDRESS Webserver_1 Webserver_2`
 
