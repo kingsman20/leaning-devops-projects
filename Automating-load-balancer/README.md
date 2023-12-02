@@ -177,3 +177,18 @@ In my project, its like this ***./nginx.sh 16.171.15.215 16.170.254.211:8000 13.
 
 **Result**: The Nginx Server acts as a loadbalancer for the two websevers. The webservers changes as you reload your nginx server.
 
+
+<img width="1509" alt="Screenshot 2023-12-02 at 9 34 26 AM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/3afaee74-b309-4c86-94b9-9c77a8f46734">
+
+
+<img width="1512" alt="Screenshot 2023-12-02 at 9 35 02 AM" src="https://github.com/kingsman20/leaning-devops-projects/assets/20397262/9f1e1a27-cf7b-49b5-b9f6-d2ce40b966b7">
+
+
+
+
+
+
+
+
+
+
